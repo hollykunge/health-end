@@ -1,4 +1,4 @@
-package com.tosave.healthend;
+package com.tosave.healthend.service;
 
 import org.springframework.stereotype.Service;
 

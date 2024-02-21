@@ -1,4 +1,4 @@
-package com.tosave.healthend;
+package com.tosave.healthend.entity;
 
 public class ApiResponse<T> {
     private int statusCode;
